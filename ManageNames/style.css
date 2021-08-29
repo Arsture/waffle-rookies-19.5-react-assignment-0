@@ -1,0 +1,14 @@
+header{
+    display: flex;
+    flex-direction: row;
+    height: 30px;
+    justify-content:space-between;
+}
+#waffleHomepage{
+    width: 100px;
+    height: 30px;
+}
+#waffleGithub{
+    width: 30px;
+    height: 30px;
+}
