@@ -1,8 +1,6 @@
 const nameForm = document.querySelector('form');
 const input = document.querySelector('#writeName');
 
-console.dir(input);
-
 function addName(event){
     event.preventDefault();
     if (input.value !== ""){
